@@ -1,0 +1,100 @@
+#HC_container {
+  margin: 20px;
+  width: 150px;
+  height: 150px;
+  position: relative;
+
+}
+
+#H2_container {
+  margin: 20px;
+  width: 150px;
+  height: 150px;
+  position: relative;
+}
+
+#H3_container {
+  margin: 20px;
+  width: 150px;
+  height: 150px;
+  position: relative;
+}
+
+#H4_container {
+  margin: 20px;
+  width: 150px;
+  height: 150px;
+  position: relative;
+}
+
+strong {
+  margin-left: 25%;
+  font-family: 'El Messiri', sans-serif;
+
+}
+#left_spacing_jason{
+  margin-left: 18%;
+}
+#left_spacing{
+  margin-left: 21%;
+}
+
+#left_spacing_node{
+  margin-left: 32%;
+}
+
+#left_spacing_ajax{
+  margin-left: 38%;
+}
+
+#left_spacing_progress{
+  padding-left: 40px;
+  margin-left: 10%;
+}
+
+.date_spacing{
+  margin-left: 25px;
+}
+
+i {
+  padding: 5px;
+}
+
+
+#Ed {
+  padding: inherit;
+  margin-top:inherit;
+  margin-left: 250px;
+}
+
+img {
+  width: inherit;
+  height: inherit;
+}
+
+.right{
+  position:relative;
+      right:8%;
+}
+
+
+-----------------------------------------------------------------------
+
+#Textcenter{
+  margin-left: 50%;
+  padding-left: 80px;
+  text-align: center;
+}
+
+#cardcenter{
+  margin-left: 150px;
+  padding-left: 80px;
+  text-align: left;
+  width: 800px;
+}
+
+#center{
+  margin-left: 500px;
+  padding-left: 80px;
+  text-align: left;
+}
